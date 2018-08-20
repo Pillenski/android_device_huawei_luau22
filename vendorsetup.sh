@@ -1,0 +1,2 @@
+add_lunch_combo omni_luau22-userdebug
+add_lunch_combo omni_luau22-eng
