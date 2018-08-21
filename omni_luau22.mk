@@ -15,10 +15,10 @@ PRODUCT_COPY_FILES += \
 $(call inherit-product, device/huawei/luau22/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := lua-u22
+PRODUCT_DEVICE := luau22
 PRODUCT_NAME := omni_luau22
 PRODUCT_BRAND := huawei
-PRODUCT_MODEL := lua-u22
+PRODUCT_MODEL := LUA-U22
 PRODUCT_MANUFACTURER := huawei
 
 ##PRODUCT_BUILD_PROP_OVERRIDES += BUILD_FINGERPRINT=6.0/MRA58M/2280749:user/release-keys PRIVATE_BUILD_DESC="mt6582-user 6.0 MRA58M 2280749 release-keys"

@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/omni_luau22.mk
+	device/huawei/luau22/omni_luau22.mk
